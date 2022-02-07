@@ -1,0 +1,6 @@
+C:\Users\victo\source\repos\FPU-Spring-2021-CEN4010\group-project-group-4-s2\DrWhiskers\x64\Debug\DrWhiskers.vcxprojAssemblyReference.cache
+C:\Users\victo\source\repos\FPU-Spring-2021-CEN4010\group-project-group-4-s2\DrWhiskers\x64\Debug\DrWhiskers.Assistant.resources
+C:\Users\victo\source\repos\FPU-Spring-2021-CEN4010\group-project-group-4-s2\DrWhiskers\x64\Debug\DrWhiskers.Menu1.resources
+C:\Users\victo\source\repos\FPU-Spring-2021-CEN4010\group-project-group-4-s2\DrWhiskers\x64\Debug\DrWhiskers.Start.resources
+C:\Users\victo\source\repos\FPU-Spring-2021-CEN4010\group-project-group-4-s2\DrWhiskers\x64\Debug\DrWhiskers.Skills.resources
+C:\Users\victo\source\repos\FPU-Spring-2021-CEN4010\group-project-group-4-s2\DrWhiskers\x64\Debug\DrWhiskers.vcxproj.GenerateResource.cache

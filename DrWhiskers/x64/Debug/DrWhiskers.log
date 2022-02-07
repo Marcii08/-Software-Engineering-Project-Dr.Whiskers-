@@ -1,0 +1,9 @@
+﻿  Assistant.cpp
+  Menu1.cpp
+  Questions.cpp
+  Start.cpp
+  Skills.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  Assistant.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DrWhiskers.vcxproj -> C:\Users\victo\Source\Repos\FPU-Spring-2021-CEN4010\group-project-group-4-s2\x64\Debug\DrWhiskers.exe
