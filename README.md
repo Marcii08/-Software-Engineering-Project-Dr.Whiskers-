@@ -1,4 +1,5 @@
-# group-project-group-4-s2
+
+![Screenshot (64)](https://user-images.githubusercontent.com/54645955/152828284-dfda74fb-292b-433c-908f-b3596698319f.png)
 
 ###############################################################################
 #     Dr. Whiskers++                                                          #
@@ -34,3 +35,5 @@ How is the code organized:
   size, etc) them to a desired appearance. The team designed and created all graphic used including the mascot seen on the Assistant window 
   and background image of paw prints seen on every window. The team also wrote all of the text including the articles of text in the Skills 
   window, and the questions & responses in the Assistant window.  
+
+![Dr Wiskers++ smile](https://user-images.githubusercontent.com/54645955/152828417-cfd192d5-1224-4c7b-8ece-6e86109851d9.gif)
