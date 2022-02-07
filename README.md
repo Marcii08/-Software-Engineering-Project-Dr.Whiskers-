@@ -6,6 +6,8 @@
 #     Team: Marcielly Nascimento, David Terry, Kevin Racktoo, Lief Watts      #
 ###############################################################################
 
+See FinalReport.docx for a more detailed description of this project and of the Software Engineering Life Cyle Model, Charts, and Diagrams. 
+
 Source Description:
   Dr. Whiskers++ is a Windows program that is designed to assist the user in locating common mistakes that novice programmers make while 
   programming their own code. If Dr. Whiskers++ is not able to help the user find the issues in their code, the program then suggests
